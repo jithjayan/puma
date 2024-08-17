@@ -4,6 +4,13 @@
     display: grid;
     justify-content: center;
 }
+.nv{
+    background-color: black;
+}
+.lp{
+    height: 70px;
+    width: 70px;
+}
 .topp{
     position: relative;
     text-align: center;
@@ -22,4 +29,11 @@
     left: 1300px;
     font-size: larger;
     font-weight: 500;
+}
+.ftt{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size:2vw;
+    padding-top: 20px;
 }
