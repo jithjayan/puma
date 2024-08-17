@@ -4,3 +4,22 @@
     display: grid;
     justify-content: center;
 }
+.topp{
+    position: relative;
+    text-align: center;
+    color: rgb(44, 212, 86);
+}
+.tpt{
+    position: absolute;
+    top: 140px;
+    left: 1100px;
+    font-size: 3vw;
+    font-weight: 500;
+}
+.tpt2{
+    position: absolute;
+    top: 220px;
+    left: 1300px;
+    font-size: larger;
+    font-weight: 500;
+}
