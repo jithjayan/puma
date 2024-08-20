@@ -35,6 +35,36 @@
     font-size: 1vw;
     font-weight: 500;
 }
+.bt{
+    position: absolute;
+    top: 40%;
+    left:60% ;
+    border-style: none;
+    color: black;
+    font-size: small;
+    font-weight: 600;
+    padding: 5px 15px;
+}
+.bt1{
+    position: absolute;
+    top: 40%;
+    left:70% ;
+    border-style: none;
+    color: black;
+    font-size: small;
+    font-weight: 600;
+    padding: 5px 15px;
+}
+.bt2{
+    position: absolute;
+    top: 40%;
+    left:82% ;
+    border-style: none;
+    color: black;
+    font-size: small;
+    font-weight: 600;
+    padding: 5px 15px;
+}
 .ftt{
     display: flex;
     justify-content: center;
@@ -80,6 +110,101 @@
 
 }
 
+
+
+
 .bm2{
     margin-top: 150px;
+    position: relative;
+    text-align: center;
+    color: rgb(226, 230, 227);
+}
+
+.bm2tpt1{
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    font-size: 3vw;
+    font-weight: 500;
+}
+.bm2tpt2{
+    position: absolute;
+    top: 45%;
+    left:6%;
+    font-size: 2vw;
+    font-weight: 400;
+}
+.bm2tpt3{
+    position: absolute;
+    top: 54%;
+    left: 11%;
+    font-size: 1vw;
+    font-weight: 500;
+}
+.tbt{
+    position: absolute;
+    top: 63%;
+    left:5% ;
+    border-style: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
+}
+.tbt1{
+    position: absolute;
+    top: 63%;
+    left:16% ;
+    border-style: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
+}
+
+
+.bm3{
+    margin-top: 10px;
+    position: relative;
+    text-align: center;
+    color: rgb(226, 230, 227);
+}
+
+.bm3tpt1{
+    position: absolute;
+    top: 35%;
+    left: 75%;
+    font-size: 3vw;
+    font-weight: 500;
+    color: black;
+}
+.bm3tpt2{
+    position: absolute;
+    top: 46%;
+    left:72%;
+    font-size: 1.8vw;
+    font-weight: 400;
+    color: black;
+}
+.frbt{
+    position: absolute;
+    top: 57%;
+    left:70% ;
+    border-style: none;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
+}
+.frbt1{
+    position: absolute;
+    top: 57%;
+    left:80% ;
+    border-style: none;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
 }

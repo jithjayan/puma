@@ -3,14 +3,11 @@
     text-align: center;
     color: rgb(44, 212, 86);
 }
-/* .topp img{
-    position: relative;
-} */
+
 .tpt{
     position: absolute;
     top: 20%;
     left: 55%;
-    /* transform:translate(-20%,-55%); */
     font-size: 3vw;
     font-weight: 500;
 }
@@ -21,3 +18,25 @@
     font-size: 1vw;
     font-weight: 500;
 }
+.bt{
+    position: absolute;
+    top: 40%;
+    left:65% ;
+    border-style: none;
+    color: black;
+    font-size: small;
+    font-weight: 600;
+    padding: 5px 15px;
+}
+
+div.scroll-container {
+    background-color: #ffffff;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
+  
+  div.scroll-container img {
+    padding: 10px;
+  }
+  
