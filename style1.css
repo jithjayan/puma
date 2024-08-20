@@ -1,0 +1,23 @@
+.topp{
+    position: relative;
+    text-align: center;
+    color: rgb(44, 212, 86);
+}
+/* .topp img{
+    position: relative;
+} */
+.tpt{
+    position: absolute;
+    top: 20%;
+    left: 55%;
+    /* transform:translate(-20%,-55%); */
+    font-size: 3vw;
+    font-weight: 500;
+}
+.tpt2{
+    position: absolute;
+    top: 35%;
+    left: 65%;
+    font-size: 1vw;
+    font-weight: 500;
+}

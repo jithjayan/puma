@@ -23,16 +23,16 @@
 }
 .tpt{
     position: absolute;
-    top: 140px;
-    left: 1100px;
+    top: 20%;
+    left: 55%;
     font-size: 3vw;
     font-weight: 500;
 }
 .tpt2{
     position: absolute;
-    top: 220px;
-    left: 1300px;
-    font-size: larger;
+    top: 35%;
+    left: 65%;
+    font-size: 1vw;
     font-weight: 500;
 }
 .ftt{
@@ -43,6 +43,7 @@
     padding-top: 20px;
 }
 .frm{
+    width: 100vw;
     display: flex;
     justify-content:center;
     padding-bottom: 30px;
