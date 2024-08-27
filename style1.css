@@ -64,6 +64,15 @@ div.scroll-container {
   .round {
     border-radius: 50%;
   }
-
+  .ftr{
+    background-color: #171a19;
+    color: #ddd ;
+  }
+.ftr a{
+  text-decoration: none;
+  color: #ddd;
+  font-size:1vw;
+  padding-top: 0px;
+}
 
   

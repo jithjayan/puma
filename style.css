@@ -286,3 +286,17 @@ div.scroll-container {
 display: grid;
 grid-template-columns: auto ;
 }
+.ftr{
+    background-color: #171a19;
+    color: #ddd ;
+    border: 3px solid rgb(23, 151, 55);
+    border-style: none none solid none;
+    
+}
+.ftr a{
+  text-decoration: none;
+  color: #ddd;
+  font-size:1vw;
+  padding-top: 0px;
+  
+}
