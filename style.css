@@ -279,4 +279,10 @@ div.scroll-container {
 
 .ftr{
     margin-top: 100px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.ftb1{
+display: grid;
+grid-template-columns: auto ;
 }
